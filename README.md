@@ -1,5 +1,5 @@
 # Bonjour, je suis Célestine 👋
-**Data Analyst - Power BI · SQL · Reporting** · Île-de-France · Disponible dès novembre 2026 (CDI / CDD)
+**Data Analyst / Data Scientist | Power BI, SQL & Machine Learning** · Île-de-France · Disponible immédiatement (CDI / CDD)
 
 Diplômée d'un double Master (Informatique décisionnelle à l'Université Sorbonne Paris Nord & Data Science à USMBA de Fès). Je transforme des données en tableaux de bord et en décisions : modélisation, SQL, Power BI/DAX, reporting.
 
